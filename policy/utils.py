@@ -22,7 +22,7 @@ class ExpertBuffer:
     """
     def __init__(self, max_length, obs_shape, action_shape):
         # Creates a buffer to hold all the expert demonstrations
-        self._obs_buffer = np.empty(shape=(max_length, *obs_shape), dtype=np.float64)
+        self._obs_buffer = np.empty(shape=(max_length, *obs_shape), dtype=np.float64) # the * appends shape as (a,shape[0],shape[1]), instead of (a, (shape[0], shape[1]))
         self._goal_buffer = np.empty(shape=(max_length, *obs_shape), dtype=np.float64)
         self._expert_action_buffer = np.empty(shape=(max_length, *action_shape), dtype=np.float64)
         self._current_index = 0
