@@ -26,4 +26,4 @@ You can find more information at [paper](https://arxiv.org/pdf/1011.0686.pdf) [1
 - [2] Ross, Stéphane, Gordon, Geoffrey, and Bagnell, Drew. "A reduction of imitation learning and structured prediction to no-regret online learning." In _Proceedings of the fourteenth international conference on artificial intelligence and statistics_, pages 627–635. JMLR Workshop and Conference Proceedings, 2011.
 
 
-For further reading on related topics, see the comprehensive book by Sutton & Barto[2].
+For further reading on related topics, see the comprehensive book by [Sutton & Barto](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)[2].
