@@ -1,5 +1,7 @@
 # A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
 
+![Demo GIF](dagger.gif)
+
 Sequential prediction problems such as imitation
 learning, where future observations depend on
 previous predictions (actions), violate the common i.i.d. assumptions made in statistical learning. This leads to poor performance in theory
