@@ -31,15 +31,6 @@ You can find more information at [paper](https://arxiv.org/pdf/1011.0686.pdf) [^
   year={2011},
   organization={JMLR Workshop and Conference Proceedings}
 }
-- [^2]: @article{montague1999reinforcement,
-  title={Reinforcement learning: an introduction, by Sutton, RS and Barto, AG},
-  author={Montague, P Read},
-  journal={Trends in cognitive sciences},
-  volume={3},
-  number={9},
-  pages={360},
-  year={1999},
-  publisher={Elsevier}
-}
+- [^2]: **Montague, P. R.** (1999). "Reinforcement learning: an introduction, by Sutton, R.S. and Barto, A.G." _Trends in Cognitive Sciences_, 3(9), 360. Elsevier.
 
 For further reading on related topics, see the comprehensive book by Sutton & Barto[^2].
