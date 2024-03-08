@@ -23,14 +23,7 @@ You can find more information at [paper](https://arxiv.org/pdf/1011.0686.pdf) [^
 
 ## References
 
-- [^1]: @inproceedings{ross2011reduction,
-  title={A reduction of imitation learning and structured prediction to no-regret online learning},
-  author={Ross, St{\'e}phane and Gordon, Geoffrey and Bagnell, Drew},
-  booktitle={Proceedings of the fourteenth international conference on artificial intelligence and statistics},
-  pages={627--635},
-  year={2011},
-  organization={JMLR Workshop and Conference Proceedings}
-}
+- [^1]: 
 - [^2]: **Montague, P. R.** (1999). "Reinforcement learning: an introduction, by Sutton, R.S. and Barto, A.G." _Trends in Cognitive Sciences_, 3(9), 360. Elsevier.
 
 For further reading on related topics, see the comprehensive book by Sutton & Barto[^2].
