@@ -1,6 +1,6 @@
 # A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
 
-![Demo GIF](dagger.gif)
+![Demo GIF](Dagger.gif)
 
 Sequential prediction problems such as imitation
 learning, where future observations depend on
