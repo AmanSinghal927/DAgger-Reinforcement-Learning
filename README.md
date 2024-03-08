@@ -22,8 +22,8 @@ and a benchmark sequence labeling problem.
 You can find more information at [paper](https://arxiv.org/pdf/1011.0686.pdf) [^1].
 
 ## References
-- **[^1]** Montague, P. Read. "Reinforcement learning: an introduction, by Sutton, RS and Barto, AG." _Trends in cognitive sciences_, vol. 3, no. 9, 1999, pp. 360. Elsevier.
-- **[^2]** Ross, Stéphane, Gordon, Geoffrey, and Bagnell, Drew. "A reduction of imitation learning and structured prediction to no-regret online learning." In _Proceedings of the fourteenth international conference on artificial intelligence and statistics_, pages 627–635. JMLR Workshop and Conference Proceedings, 2011.
+- [^1] Montague, P. Read. "Reinforcement learning: an introduction, by Sutton, RS and Barto, AG." _Trends in cognitive sciences_, vol. 3, no. 9, 1999, pp. 360. Elsevier.
+- [^2] Ross, Stéphane, Gordon, Geoffrey, and Bagnell, Drew. "A reduction of imitation learning and structured prediction to no-regret online learning." In _Proceedings of the fourteenth international conference on artificial intelligence and statistics_, pages 627–635. JMLR Workshop and Conference Proceedings, 2011.
 
 
 For further reading on related topics, see the comprehensive book by Sutton & Barto[^2].
